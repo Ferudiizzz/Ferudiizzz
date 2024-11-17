@@ -9,7 +9,7 @@ I'm a passionate developer with a focus on building cool and user-friendly appli
 - 💻 **Currently working with:** **PHP**, **Java**, **Python**, and **Dart**.
 - 🔧 **Focus:** Developing **Android applications** and **web development** projects.
 - 🌱 **Learning:** Improving skills in**Python**, **OpenCV**, **Java**, **Flutter**, and building **AI-based applications**.
-- ⚡ **Fun fact:** I love reading **manhwas**, drinking **matcha**, and playing **Mobile Legends** with friends!
+- ⚡ **Fun fact:** I love reading **Manga**, drinking **Coke**, and playing **Genshin Impact!** with friends!
 
 ---
 
