@@ -8,7 +8,7 @@ I'm a passionate developer with a focus on building cool and user-friendly appli
 
 - 💻 **Currently working with:** **PHP**, **Java**, **Python**, and **Dart**.
 - 🔧 **Focus:** Developing **Android applications** and **web development** projects.
-- 🌱 **Learning:** Improving skills in **OpenCV**, **Java**, **Flutter**, and building **AI-based applications**.
+- 🌱 **Learning:** Improving skills in**Python**, **OpenCV**, **Java**, **Flutter**, and building **AI-based applications**.
 - ⚡ **Fun fact:** I love reading **manhwas**, drinking **matcha**, and playing **Mobile Legends** with friends!
 
 ---
@@ -48,7 +48,7 @@ I'm a passionate developer with a focus on building cool and user-friendly appli
 
 - **OpenCV** and **computer vision**.
 - **Android development** and **Flutter**.
-- **Web development** with **PHP**, **JavaScript**, and **MySQL**.
+- **Web development** with **Python**, **Flask**, **PHP**, **JavaScript**, and **MySQL**.
 
 ---
 
@@ -63,8 +63,8 @@ Still don’t have one 🤔
 
 ## 📚 Latest Projects
 
-### 1. **Face Shape Detection App (Android)**
-   - A mobile application that analyzes face shapes and suggests hairstyles based on the results using **OpenCV** and **face detection algorithms**.
+### 1. **Face Shape Detection  (Website)**
+   - A Website application using  that analyzes face shapes and suggests hairstyles based on the results using **OpenCV** and **face detection algorithms**.
 
 ### 2. **Python OpenCV Image Processing**
    - A Python project that uses **OpenCV** for image processing tasks such as **face detection**, **edge detection**, and **object recognition**. It demonstrates real-time image manipulation using the webcam.
@@ -72,8 +72,6 @@ Still don’t have one 🤔
 ### 3. **Personal Website**  
    - A modern, responsive website that showcases my work and personal interests. Built with **HTML**, **CSS**, and **JavaScript**.
 
-### 4. **CRUD Operations with PHP & MySQL**
-   - A simple PHP project that demonstrates **CRUD** (Create, Read, Update, Delete) operations connected to a **MySQL** database.
 
 ---
 
